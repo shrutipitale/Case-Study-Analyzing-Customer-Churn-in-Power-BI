@@ -6,3 +6,5 @@
 **Badges**
 
 ![statement-of-accomplishment (1)](https://github.com/shrutipitale/Case-Study-Analyzing-Customer-Churn-in-Power-BI/assets/80112581/8a07e477-ced2-47bf-9e54-9e9bb40cf5e5)
+
+Medium Link: https://medium.com/@shrutipitale240/case-study-analyzing-customer-churn-in-power-bi-17ab33db9a04
